@@ -11,11 +11,11 @@
 
 
 <h3>About me</h1>
-- 🔭 I am a Full-Stack Web Developer and I love Programming and traveling.<br>
+- 🔭 I am a Full-Stack Web Developer and I love Programming and Music Production & traveling.<br>
 - 🌱 Full Stack Web Developer, MERN stack developer, Problem Solver, Front-End Engineer, and Open-Source Enthusiast.<br>
 - 👨‍💻 I am passionate about learning React and Redux, all Front-End Technologies, MongoDB, Node, , Heroku, and Redis.<br>
 - 👯 I’m looking to collaborate on real products while working for an organisation.<br>
-- 💬 Ask me about Javascript , Frontend, or MERN Stack i would love to help.<br>
+- 💬 Ask me about Javascript , Frontend,SAS, or MERN Stack i would love to help.<br>
 -⚡ Self and quick learner, self-motivated, and social.<br>
 - 📫 You can reach out to me directly via <a href="https://www.linkedin.com/in/pspiyus130/">LinkedIn</a> or can put a <a href="mailto:pspiyush130@gmail.com">mail</a>
 <br>
@@ -51,7 +51,7 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Shubhampar&layout=compact&title_color=6FDA44&text_color=FFFFFF&theme=dark" alt="GitHub Most Used Languages" height="200" />
         <br>
         -->
-        <img src="[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pspiyush130)](https://git.io/streak-stats)" alt="GitHub Streak Stats" height="200" />
+        <img src="[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pspiyush130&theme=gruvbox&mode=weekly)]" alt="GitHub Streak Stats" height="200" />
         <br>
         <br>
     </div>
