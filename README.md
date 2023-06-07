@@ -23,7 +23,7 @@
 
 <p>
     <strong>
-        Here is the link of my personal portfolio **https://pspiyush130.github.io/.
+        Here is the link of my personal portfolio **https://piyushfolio.netlify.app
     </strong>
 </p>
 
