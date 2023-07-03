@@ -13,9 +13,9 @@
 <h3>About me</h1>
 - 🔭 I am a Full-Stack Web Developer and I love Programming and Music Production & traveling.<br>
 - 🌱 Full Stack Web Developer, MERN stack developer, Problem Solver, Front-End Engineer, and Open-Source Enthusiast.<br>
-- 👨‍💻 I am passionate about learning React and Redux, all Front-End Technologies, MongoDB, Node, , Heroku, and Redis.<br>
-- 👯 I’m looking to collaborate on real products while working for an organisation.<br>
-- 💬 Ask me about Javascript , Frontend,SAS, or MERN Stack i would love to help.<br>
+- 👨‍💻 I am passionate about learning React and Redux, all Front-End Technologies, MongoDB, Node, Heroku, and Redis.<br>
+- 👯 I’m looking to collaborate on real products while working for an organization.<br>
+- 💬 Ask me about Javascript, Frontend, SAS, or MERN Stack I would love to help.<br>
 -⚡ Self and quick learner, self-motivated, and social.<br>
 - 📫 You can reach out to me directly via <a href="https://www.linkedin.com/in/pspiyus130/">LinkedIn</a> or can put a <a href="mailto:pspiyush130@gmail.com">mail</a>
 <br>
@@ -23,7 +23,7 @@
 
 <p>
     <strong>
-        Here is the link of my personal portfolio **https://piyushfolio.netlify.app
+        Here is the link of my personal portfolio    <a href="https://devfoliopiyush.netlify.app/">Click Here</a>
     </strong>
 </p>
 
@@ -48,8 +48,8 @@
         <img src="https://github-readme-stats.vercel.app/api?username=pspiyush130&title_color=6FDA44&text_color=FFFFFF&show_icons=true&icon_color=6FDA44&include_all_commits=true&count_private=true&theme=dark" alt="GitHub Stats" height="200" />
         <br><br>         
         <!--
-        <img src="https://github-readme-stats.vercel.app/api?username=pspiyush130&show_icons=true&theme=radical" alt="GitHub Most Used Languages" height="200" />
+        <img src="
+        (https://api.netlify.com/api/v1/badges/3e80507b-58d5-4930-a962-a4ffce1a19df/deploy-status)](https://app.netlify.com/sites/devfoliopiyush/deploys)" alt="GitHub Most Used Languages" height="200" />
         <br>
-        
     </div>
 </div>
